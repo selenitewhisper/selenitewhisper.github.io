@@ -3,7 +3,6 @@ layout: page
 title: Gallery
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
 ---
 
 一起拍的照片
