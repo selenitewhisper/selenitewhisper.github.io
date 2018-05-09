@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: SS House # blog's title
   avatar: assets/img/ss.png
-  favicon: assets/ss.png
+  favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
