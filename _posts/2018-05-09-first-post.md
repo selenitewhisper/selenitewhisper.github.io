@@ -2,7 +2,7 @@
 layout: post
 title: 小屋建好啦! 写给你～
 feature-img: "assets/img/pexels/together-irvine.jpg"
-thumbnail: "assets/img/thumbnails/together-irvine.jpg"
+thumbnail: "assets/img/pexels/together-irvine.jpg"
 ---
 
 我们一起去过的地方越来越多啦，相机和手机里都堆满了没有分类整理的照片，接下来的几个月马上又要踏上新的旅程～ 正准备做攻略的我
