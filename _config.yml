@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://selenitewhisper.github.io"
 title: SS House # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: SS House # blog's title
   avatar: assets/img/ss.png
-  favicon: assets/favicon.ico
+  favicon: assets/ss.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
