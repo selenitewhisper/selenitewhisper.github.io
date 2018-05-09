@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://selenitewhisper.github.io"
-title: SS House # site's title
+title: S&S House # site's title
 description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: SS House (泡菜小屋) # blog's title
+  title: S&S House (泡菜小屋) # blog's title
   avatar: assets/img/ss.png
   favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
