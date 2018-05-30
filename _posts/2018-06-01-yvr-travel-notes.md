@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么想去Morocco
+title: Vancouver纪行
 ---
 
 Placeholder
