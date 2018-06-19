@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vancouver纪行
+feature-img: "assets/img/posts/vancouver/cover.jpg"
+thumbnail: "assets/img/posts/vancouver/cover.jpg"
 ---
 
 ### May 26th: 
