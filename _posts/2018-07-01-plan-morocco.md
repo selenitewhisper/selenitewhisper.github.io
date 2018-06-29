@@ -18,3 +18,7 @@ title: Morocco旅行计划
 16:56	Arrive at Indianapolis  
 18:15	Departure from Indianapolis (Delta 2528)  
 19:30	Arrive at Seattle  
+
+#### 参考攻略:
+交通工具 http://www.mafengwo.cn/gonglve/ziyouxing/15132.html
+可行路线 http://www.mafengwo.cn/gonglve/ziyouxing/11853.html
