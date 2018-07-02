@@ -6,7 +6,9 @@ title: Morocco旅行计划
 ## 行程
 
 ### 12/22/2018 (Flight)
-11:44	Departure from Seattle (Air France 3653 Operated by delta air lines inc)                                                   07:15	Arrive at Paris 
+11:44	Departure from Seattle (Air France 3653 Operated by delta air lines inc)
+
+07:15	Arrive at Paris 
 
 **[Confirmation code: RIG8DU(Air France), GRX376(Delta)]** 
 
