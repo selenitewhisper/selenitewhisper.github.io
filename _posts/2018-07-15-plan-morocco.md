@@ -86,14 +86,14 @@ title: Morocco旅行计划
 * 沙漠游 (12/25 - 12/27)
 * ONCF一等座火车票: 尽量订一等座，二等座可能没座位需要站着
    + 12/24: CASA VOYAGEURS - Marrakesh 
- 	电子购票网站: [马蜂窝](http://www.mafengwo.cn/sales/2227936.html); [淘宝](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.20.312f2620WXZWnY&id=565499769738&ns=1&abbucket=12&smToken=b3c75e217fe245cb9753c4b982316493&smSign=PsaMhlJjAkEZPTpGRwbFWg%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
+   购票: [淘宝link](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.20.312f2620WXZWnY&id=565499769738&ns=1&abbucket=12&smToken=b3c75e217fe245cb9753c4b982316493&smSign=PsaMhlJjAkEZPTpGRwbFWg%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
    + 12/31: Rabat - Casablanca
-   电子购票网站: [淘宝链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.115.3b2e9675JgtIkv&id=566378735008&ns=1&abbucket=12&smToken=7ca61112970b428dab9555b4465e759f&smSign=TDCvZedoRYgDcIJo7Agt7Q%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
+   购票: [淘宝link](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.115.3b2e9675JgtIkv&id=566378735008&ns=1&abbucket=12&smToken=7ca61112970b428dab9555b4465e759f&smSign=TDCvZedoRYgDcIJo7Agt7Q%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
 * CTM大巴: 
    + 12/28: Fes - Chefchaouen
-   电子购票网站: [淘宝购票链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网购票链接](http://www.ctm.ma/)
+   购票: [淘宝link](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网](http://www.ctm.ma/)
    + 12/29: Chefchaouen - Rabat
-   电子购票网站: [淘宝链接](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.58.3c8f3c45ARSWyb&abbucket=12&ns=1&id=568745053981&#detail); [CTM官网](http://www.ctm.ma/)
+   购票: [淘宝link](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.58.3c8f3c45ARSWyb&abbucket=12&ns=1&id=568745053981&#detail); [CTM官网](http://www.ctm.ma/)
 
 ### 需要携带的
 
