@@ -88,12 +88,15 @@ title: Morocco旅行计划
 ### 需要订购的 
 
 * 酒店: 
-12/27 菲斯 Fes 住宿 + 12/28 舍夫沙万 Chefchaouen 住宿, 尽量离CTM大巴站近的，因为班车错过就没有了, 12/31 卡萨布兰卡 Casablanca 住宿尽量离机场近
+*  12/27 菲斯 Fes 住宿 + 12/28 舍夫沙万 Chefchaouen 住宿, 尽量离CTM大巴站近的，因为班车错过就没有了
+*  12/31 卡萨布兰卡 Casablanca 住宿尽量离机场近
 * 沙漠游 (12/25 - 12/27)
 * ONCF一等座火车票: 
-12/24: CASA VOYAGEURS - Marrakesh & 12/31: Rabat - Casablanca
+*  12/24: CASA VOYAGEURS - Marrakesh 
+*  12/31: Rabat - Casablanca
 * CTM大巴: 
-12/28: Fes - Chefchaouen & 12/29: Chefchaouen - Rabat
+*  12/28: Fes - Chefchaouen 
+*  12/29: Chefchaouen - Rabat
 
 ### 需要携带的
 
