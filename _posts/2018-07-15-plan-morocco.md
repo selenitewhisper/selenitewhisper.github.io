@@ -40,14 +40,14 @@ title: Morocco旅行计划
 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)：
 
-[淘宝购票链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网购票链接](http://www.ctm.ma/)
+电子购票网站: [淘宝购票链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网购票链接](http://www.ctm.ma/)
 * **住舍夫沙万 Chefchaouen**
 
 ### 12/29/2018 
 
-* 7am - 12am: 清晨坐CTM大巴从舍夫沙万到拉巴特 (每天只有一班，7点出发，4个多小时):
+* 7am - 12am: 清晨坐CTM大巴从舍夫沙万到拉巴特 (每天只有一班，7点出发):
 
-[淘宝链接](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.58.3c8f3c45ARSWyb&abbucket=12&ns=1&id=568745053981&#detail); [CTM官网](http://www.ctm.ma/)
+电子购票网站: [淘宝链接](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.58.3c8f3c45ARSWyb&abbucket=12&ns=1&id=568745053981&#detail); [CTM官网](http://www.ctm.ma/)
 * **住拉巴特 Rabat**
 
 ### 12/30/2018 
@@ -58,7 +58,7 @@ title: Morocco旅行计划
 
 * 坐ONCF火车从拉巴特到卡萨布兰卡 (15分钟一班，车程1.5小时): 
 
-[淘宝链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.115.3b2e9675JgtIkv&id=566378735008&ns=1&abbucket=12&smToken=7ca61112970b428dab9555b4465e759f&smSign=TDCvZedoRYgDcIJo7Agt7Q%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
+电子购票网站: [淘宝链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.115.3b2e9675JgtIkv&id=566378735008&ns=1&abbucket=12&smToken=7ca61112970b428dab9555b4465e759f&smSign=TDCvZedoRYgDcIJo7Agt7Q%3D%3D); [ONCF官网](https://www.oncf-voyages.ma/)
 * **住卡萨布兰卡 Casablanca**
 
 ### 01/01/2019 (Flight)
@@ -81,9 +81,9 @@ title: Morocco旅行计划
 
 ### 参考攻略
 
-* 交通工具 [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/15132.html)
-* 可行路线 [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/11853.html)
-* [淘宝9天8晚链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.13.5a546f6dHPJ8yk&id=558390960997&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=12&smToken=1c669be64e04410eaec05c43040b44e9&smSign=GKC4QIyZTzsIjDT9bms4Qg%3D%3D)
+* 交通工具: [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/15132.html)
+* 可行路线: [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/11853.html)
+* 行程例子: [淘宝9天8晚链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.13.5a546f6dHPJ8yk&id=558390960997&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=12&smToken=1c669be64e04410eaec05c43040b44e9&smSign=GKC4QIyZTzsIjDT9bms4Qg%3D%3D)
 
 ### 需要订购的 
 
