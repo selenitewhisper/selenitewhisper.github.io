@@ -15,53 +15,53 @@ title: Morocco旅行计划
 
 ### 12/23/2018 
 
-1. 参观卡萨布兰卡清真寺
+* 参观卡萨布兰卡清真寺
 
-*住卡萨布兰卡 Casablanca*
+* **住卡萨布兰卡 Casablanca**
 
 ### 12/24/2018 
 
-1. 清晨坐ONCF火车从卡萨布兰卡出发去马拉喀什（2小时一班，车程4个小时）： 卡萨布兰卡（CASA VOYAGEURS)火车站 -- 马拉喀什站（不需要换乘), 尽量订一等座，二等座可能没座位需要站着
-电子购票网站: [马蜂窝](http://www.mafengwo.cn/sales/2227936.html);[淘宝](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.20.312f2620WXZWnY&id=565499769738&ns=1&abbucket=12&smToken=b3c75e217fe245cb9753c4b982316493&smSign=PsaMhlJjAkEZPTpGRwbFWg%3D%3D);[ONCF官网最便宜](https://www.oncf-voyages.ma/)
+* 清晨坐ONCF火车从卡萨布兰卡出发去马拉喀什（2小时一班，车程4个小时）： 卡萨布兰卡（CASA VOYAGEURS)火车站 -- 马拉喀什站（不需要换乘), 尽量订一等座，二等座可能没座位需要站着
+电子购票网站: [马蜂窝](http://www.mafengwo.cn/sales/2227936.html);[淘宝](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.20.312f2620WXZWnY&id=565499769738&ns=1&abbucket=12&smToken=b3c75e217fe245cb9753c4b982316493&smSign=PsaMhlJjAkEZPTpGRwbFWg%3D%3D);[ONCF官网](https://www.oncf-voyages.ma/)
 
-_住马拉喀什 Marrakesh_**
+* **住马拉喀什 Marrakesh**
 
 ### 12/25/2018 
 
-_沙漠团提供住宿_**
+* **沙漠团提供住宿**
 
 ### 12/26/2018 
 
-_沙漠团提供住宿_**
+* **沙漠团提供住宿**
 
 ### 12/27/2018 
 
-_住菲斯 Fes_**
+* **住菲斯 Fes**
 
 ### 12/28/2018 
 
-1. 坐CTM大巴从菲斯到舍夫沙万 (4小时多，坐8am-12am那班)：
+* 坐CTM大巴从菲斯到舍夫沙万 (4小时多，坐8am-12am那班)：
 [淘宝购票链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D);[CTM官网购票链接](http://www.ctm.ma/)
 
-_住舍夫沙万 Chefchaouen_** 
+* **住舍夫沙万 Chefchaouen**
 
 ### 12/29/2018 
 
-1. 清晨坐CTM大巴从舍夫沙万到拉巴特 (每天只有一班，7点出发，4个多小时):
+* 清晨坐CTM大巴从舍夫沙万到拉巴特 (每天只有一班，7点出发，4个多小时):
 [淘宝链接](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.58.3c8f3c45ARSWyb&abbucket=12&ns=1&id=568745053981&#detail);[CTM官网](http://www.ctm.ma/)
 
-_住拉巴特 Rabat_**
+* **住拉巴特 Rabat**
 
 ### 12/30/2018 
 
-_住拉巴特 Rabat_** 
+* **住拉巴特 Rabat** 
 
 ### 12/31/2018  
 
-1. 坐ONCF火车从拉巴特到卡萨布兰卡 (15分钟一班，车程1.5小时): 
+* 坐ONCF火车从拉巴特到卡萨布兰卡 (15分钟一班，车程1.5小时): 
 [淘宝链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.115.3b2e9675JgtIkv&id=566378735008&ns=1&abbucket=12&smToken=7ca61112970b428dab9555b4465e759f&smSign=TDCvZedoRYgDcIJo7Agt7Q%3D%3D);[ONCF官网](https://www.oncf-voyages.ma/)
 
-_住卡萨布兰卡 Casablanca_**
+* **住卡萨布兰卡 Casablanca**
 
 ### 01/01/2019 (Flight)
 07:10	Departure from Casablanca (Air France 1497)  
@@ -94,20 +94,20 @@ _住卡萨布兰卡 Casablanca_**
 
 ### 需要订购的 
 
-1. 酒店: 
+* 酒店: 
 12/27 菲斯 Fes 住宿 + 12/28 舍夫沙万 Chefchaouen 住宿, 尽量离CTM大巴站近的，因为班车错过就没有了, 12/31 卡萨布兰卡 Casablanca 住宿尽量离机场近
-2. 沙漠游 (12/25 - 12/27)
-3. ONCF一等座火车票: 
+* 沙漠游 (12/25 - 12/27)
+* ONCF一等座火车票: 
 12/24: CASA VOYAGEURS - Marrakesh & 12/31: Rabat - Casablanca
-4. CTM大巴: 
+* CTM大巴: 
 12/28: Fes - Chefchaouen & 12/29: Chefchaouen - Rabat
 
 ### 需要携带的
 
-1. 移动wifi, 或者morocco手机卡，注意关掉漫游(data roaming)
-2. 防蚊喷雾
-3. 防晒霜
-4. 面膜 x 10
+* 移动wifi, 或者morocco手机卡，注意关掉漫游(data roaming)
+* 防蚊喷雾
+* 防晒霜
+* 面膜 x 10
 
 
 
