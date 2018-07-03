@@ -14,10 +14,10 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 ### 12/23/2018
 * 12:25	Departure from Paris (Air France 1596)  
 * 14:35	Arrive at Casablanca  
-* 机场坐ONCF火车从卡萨布兰卡出发去马拉喀什 AEROPORT Med V - Marrakesh, 卡萨机场取行李后走下一层便是火车站
-注意: 需要转车 从机场出来只坐一站就下车，等下一班火车去马拉喀什(要在L’OASIS或CASA VOYAGEURS转, L’OASIS 车站较小, 走过对面月台便可转车)
-+ AEROPORT Med V - L'OASIS: 一小时一班, 车程0.5小时
-+ L'OASIS - Marrakesh: 车程3.5小时, 17,18,19,21点出发
+* 机场坐ONCF火车从卡萨布兰卡出发去马拉喀什 AEROPORT Med V - Marrakesh
+	+ 卡萨机场取行李后走下一层便是火车站, 需要转车, 坐一站就到L'OASIS
+	+ AEROPORT Med V - L'OASIS: 一小时一班, 车程0.5小时
+	+ L'OASIS - Marrakesh: 车程3.5小时, 17,18,19,21点出发
 * **住马拉喀什 Marrakesh**
 
 ### 12/24/2018 
