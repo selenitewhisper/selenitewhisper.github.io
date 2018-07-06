@@ -18,12 +18,12 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 	+ 卡萨机场取行李后走下一层便是火车站, 需要转车, 坐一站就到L'OASIS
 	+ AEROPORT Med V - L'OASIS: 一小时一班, 车程0.5小时
 	+ L'OASIS - Marrakesh: 车程3.5小时, 17,18,19,21点出发
-* **住马拉喀什 Marrakesh**
+* **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, 1-866-599-6674**
 
 ### 12/24/2018 
 
 * 参观 旧城大市集(Souk); 站马广场(Place DjemaaEl Fna); 巴伊亚宫殿(Bahia); 埃本哈杜古城
-* **住马拉喀什 Marrakesh**
+* **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, 1-866-599-6674**
 
 ### 12/25/2018 
 * 沙漠团 Day 1 
