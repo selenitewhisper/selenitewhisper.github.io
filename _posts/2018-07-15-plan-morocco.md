@@ -22,7 +22,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/24/2018 
 
-* 参观 旧城大市集; 站马广场; 巴伊亚宫殿; 埃本哈杜古城
+* 参观 旧城大市集(Souk); 站马广场(Place DjemaaEl Fna); 巴伊亚宫殿(Bahia); 埃本哈杜古城
 * **住马拉喀什 Marrakesh**
 
 ### 12/25/2018 
