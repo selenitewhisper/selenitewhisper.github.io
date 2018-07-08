@@ -77,8 +77,8 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 * 交通工具: [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/15132.html)
 * 可行路线: [马蜂窝帖子](http://www.mafengwo.cn/gonglve/ziyouxing/11853.html)
 * 行程例子: [淘宝9天8晚链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.13.5a546f6dHPJ8yk&id=558390960997&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=12&smToken=1c669be64e04410eaec05c43040b44e9&smSign=GKC4QIyZTzsIjDT9bms4Qg%3D%3D)
-* 拍照蓝色小镇取景攻略: http://360.mafengwo.cn/travels/info_qq.php?id=7076672
-* pose攻略: https://www.zhihu.com/question/46127005?sort=created 
+* [拍照蓝色小镇取景攻略](http://360.mafengwo.cn/travels/info_qq.php?id=7076672)
+* [pose攻略](https://www.zhihu.com/question/46127005?sort=created)
 
 ### 需要订购的 
 
