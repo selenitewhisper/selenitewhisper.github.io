@@ -45,12 +45,12 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/29/2018 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)：
+* 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510)**
 TODO: ask host about detailed address
-* 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 
 ### 12/30/2018 
-* 6am - 9am: 拍engagement photo
+* 6am - 12pm: 拍engagement photo
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510)**
 TODO: ask host about detailed address
 
