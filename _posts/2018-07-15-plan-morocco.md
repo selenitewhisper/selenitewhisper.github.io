@@ -22,7 +22,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/24/2018 
 
-* 参观 旧城大市集(Souk); 站马广场(Place DjemaaEl Fna); 巴伊亚宫殿(Bahia); 埃本哈杜古城
+* 参观 旧城大市集(Souk); 站马广场(Jemaa el-Fna); YSL花园(Jardin Majorelle); 巴伊亚宫殿(Bahia)
 * **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, 1-866-599-6674**
 
 ### 12/25/2018 
@@ -47,7 +47,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 TODO: ask host about detailed address
 
 ### 12/30/2018 
-
+* 6am - 9am: 拍engagement photo
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510)**
 TODO: ask host about detailed address
 
