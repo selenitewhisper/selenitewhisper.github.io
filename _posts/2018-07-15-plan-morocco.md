@@ -38,7 +38,8 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 * **住菲斯 Fes**
 
 ### 12/28/2018 
-
+* 老城: 蓝门(Bab Boujloud): Fes Medina的入口之一, 古兰经学校(Mederssa EL Bouanania Fes) - 可以早起去蓝门拍照
+* 参观皮革染坊(Chaouwara Tanneries), 梅里尼德王朝墓(Tombeaux Des Mérinides)
 * **住菲斯 Fes**
 
 ### 12/29/2018 
@@ -54,6 +55,7 @@ TODO: ask host about detailed address
 ### 12/31/2018  
 
 * 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发):
+* 参观哈桑二世清真寺(Hassan II Mosque)
 * **住卡萨布兰卡 Casablanca**
 
 ### 01/01/2019 (Flight)
