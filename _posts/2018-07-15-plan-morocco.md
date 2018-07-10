@@ -57,7 +57,7 @@ TODO: ask host about detailed address
 ### 12/31/2018  
 
 * 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发):
-* 参观哈桑二世清真寺(Hassan II Mosque)
+* 参观哈桑二世清真寺(Hassan II Mosque), 远处某个草地可以拍照
 * **住卡萨布兰卡 Casablanca**
 
 ### 01/01/2019 (Flight)
@@ -85,6 +85,7 @@ TODO: ask host about detailed address
 * 行程例子: [淘宝9天8晚链接](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.13.5a546f6dHPJ8yk&id=558390960997&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=12&smToken=1c669be64e04410eaec05c43040b44e9&smSign=GKC4QIyZTzsIjDT9bms4Qg%3D%3D)
 * [拍照蓝色小镇取景攻略](http://360.mafengwo.cn/travels/info_qq.php?id=7076672)
 * [pose攻略](https://www.zhihu.com/question/46127005?sort=created)
+* 参数: iso 3200 f2.8 30 后帘同步闪光 星空人像
 
 ### 需要订购的 
 
