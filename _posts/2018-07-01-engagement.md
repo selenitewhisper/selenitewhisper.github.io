@@ -69,3 +69,13 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 </p>
 
 
+附上两张去年的图~ 订婚的地方就是第一次旅行去的地方哦, 希望大家能不忘初心~~~
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2017-11-portland.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2017-11-portland2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
