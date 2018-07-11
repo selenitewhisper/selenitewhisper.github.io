@@ -43,7 +43,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 * **住菲斯 Fes**
 
 ### 12/29/2018 
-* 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)：
+* 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)
 * 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510)**
 TODO: ask host about detailed address
@@ -55,7 +55,7 @@ TODO: ask host about detailed address
 
 ### 12/31/2018  
 
-* 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发):
+* 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发)
 * 参观哈桑二世清真寺(Hassan II Mosque), 远处某个草地可以拍照
 * **住卡萨布兰卡 Casablanca**
 
