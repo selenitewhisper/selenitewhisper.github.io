@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 明年夏天的记录
-feature-img: "assets/img/posts/weddingbands/cover.png"
-thumbnail: "assets/img/posts/weddingbands/cover.png"
+feature-img: "assets/img/posts/weddingbands/cover.jpg"
+thumbnail: "assets/img/posts/weddingbands/cover.jpg"
 ---
 
 ### 戒指 Wedding Bands (07.16)
