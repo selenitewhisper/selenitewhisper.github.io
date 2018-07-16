@@ -12,18 +12,18 @@ thumbnail: "assets/img/posts/weddingbands/cover.jpg"
 器材: D750, 50 1.4g, 4倍近摄镜。高速连拍 + 沈老师台灯打光、手撒白糖。
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-ring1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-ring2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-ring3.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-ring5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
