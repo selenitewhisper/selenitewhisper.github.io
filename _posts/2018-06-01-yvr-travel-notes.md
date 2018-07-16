@@ -75,18 +75,18 @@ thumbnail: "assets/img/posts/vancouver/cover.jpg"
 行程的最后一天，沈老师给我购置了一套去摩洛哥的漂亮衣服，就不再是土小孩啦！中午我们去吃了觊觎已久的太二酸菜鱼，点了炸油条和招牌菜酸菜鱼火锅，鱼片薄薄的还很新鲜，和国内的中餐水平不相上下。
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_food_fish.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_food_fish.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 最后一站是吊桥公园。拍了好多好多照片，还有几张我的丑照，要挟着沈老师删掉了～
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_1.JPG?raw=true" alt="Photo" style="width: 700px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_1.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_2.JPG?raw=true" alt="Photo" style="width: 700px;"/> 
 </p>
 
 ### Miscellaneous: 
@@ -94,7 +94,7 @@ thumbnail: "assets/img/posts/vancouver/cover.jpg"
 一些好吃的，牛角烤肉，奶茶和有满满大虾的麻辣香锅^.^
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/days_yvr_foodie.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/days_yvr_foodie.JPG?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 
