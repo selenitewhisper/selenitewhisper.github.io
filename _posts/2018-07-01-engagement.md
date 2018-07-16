@@ -26,18 +26,18 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement3.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement4.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement6.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement6.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement9.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement13.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement13.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 
