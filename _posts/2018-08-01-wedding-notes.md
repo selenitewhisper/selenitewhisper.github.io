@@ -27,3 +27,5 @@ thumbnail: "assets/img/posts/weddingbands/cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
+
+### 裙子、头纱和捧花 Wedding Dress, Veil, Bouquet (08.16)

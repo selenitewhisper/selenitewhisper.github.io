@@ -20,12 +20,12 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 	+ 卡萨机场取行李后走下一层便是火车站, 需要转车, 坐一站就到L'OASIS
 	+ AEROPORT Med V - L'OASIS: 一小时一班, 车程0.5小时
 	+ L'OASIS - Marrakesh: 车程3.5小时, 17,18,19,21点出发
-* **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, 1-866-599-6674**
+* **住马拉喀什 Marrakesh(expedia.com): Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, Phone: +212-66-1582972**
 
 ### 12/24/2018 
 
 * 参观 旧城大市集(Souk); 站马广场(Jemaa el-Fna); YSL花园(Jardin Majorelle); 巴伊亚宫殿(Bahia)
-* **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, 1-866-599-6674**
+* **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, Phone: +212-66-1582972**
 
 ### 12/25/2018 
 * 沙漠团 Day 1 
@@ -37,18 +37,24 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/27/2018 
 * 沙漠团 Day 3
-* **住菲斯 Fes**
+* **住菲斯 Fes(booking.com): Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
 
 ### 12/28/2018 
 * 老城: 蓝门(Bab Boujloud): Fes Medina的入口之一, 去蓝门拍照的话需要早起; 古兰经学校(Mederssa EL Bouanania Fes)
 * 参观皮革染坊(Chaouwara Tanneries), 梅里尼德王朝墓(Tombeaux Des Mérinides)
-* **住菲斯 Fes**
+* **住菲斯 Fes: Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
 
 ### 12/29/2018 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)
 * 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
-* **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510)**
-TODO: ask host about detailed address
+* **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510) Address: Chefchaouen, Tangier-Tetouan, Morocco. Phone: +212661895170, +212636927816, +212632708798**  
+```
+Message from Airbnb holder: Rachida Yeder  
+When you arrive to chaouen take a small bleu taxi to the main square OTA LHAMAM  
+Call me before to :0661895170 and i will be waiting for you there  
+Have a nice journey  
+Rachida  
+```
 
 ### 12/30/2018 
 * 6am - 12pm: 拍engagement photo
@@ -59,7 +65,7 @@ TODO: ask host about detailed address
 
 * 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发)
 * 参观哈桑二世清真寺(Hassan II Mosque), 远处某个草地可以拍照
-* **住卡萨布兰卡 Casablanca**
+* **住卡萨布兰卡 Casablanca(expedia.com): Atlas Sky Airport. Address: Zone Urbaine, Nouaceur, 101. Phone: +212-522-536200**
 
 ### 01/01/2019 (Flight)
 * 07:10	Departure from Casablanca (Air France 1497)  
