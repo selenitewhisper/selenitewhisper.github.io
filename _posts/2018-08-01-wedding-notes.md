@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 明年夏天的记录
+title: 夏天的记录
 feature-img: "assets/img/posts/weddingbands/cover.jpg"
 thumbnail: "assets/img/posts/weddingbands/cover.jpg"
 ---
@@ -27,5 +27,25 @@ thumbnail: "assets/img/posts/weddingbands/cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-ring.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
 
-### 裙子、头纱和捧花 Wedding Dress, Veil, Bouquet (08.16)
+
+### 试妆照 Pre Wedding Photos (09.28)
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-3.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
