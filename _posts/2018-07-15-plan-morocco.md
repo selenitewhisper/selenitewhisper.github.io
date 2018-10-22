@@ -109,6 +109,8 @@ TODO: ask host about detailed address
    购票: [淘宝link](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网](http://www.ctm.ma/)
    + 12/31: Chefchaouen - Casablanca
    购票: [淘宝link](https://traveldetail.taobao.com/item.htm?spm=a230r.1.14.23.29017617TfexKW&abbucket=12&ns=1&id=569215483636&#detail); [CTM官网](http://www.ctm.ma/)
+   
+   Reservation #: 465993
 
 ### 需要携带的
 
