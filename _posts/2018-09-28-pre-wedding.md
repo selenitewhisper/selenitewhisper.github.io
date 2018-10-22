@@ -55,6 +55,8 @@ thumbnail: "assets/img/posts/prewedding/cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-10-18-flower1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
+捧花~ 
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-10-18-flower2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
