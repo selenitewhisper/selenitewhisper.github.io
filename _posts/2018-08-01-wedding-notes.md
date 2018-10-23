@@ -15,12 +15,10 @@ thumbnail: "assets/img/posts/weddingbands/cover.jpg"
 有了小戒指就更加期待婚礼的仪式了, Betsy阿姨发了几十个交换戒指的模版, 这个苏格兰教堂版是少有的新人双方不交换誓言的, 可以说是"此时无声胜有声"了, 毕竟大多数真诚的承诺, 表象都是沉默的。
 
 ```
-In the Church of Scotland ceremony, the couple do not speak at 
-the exchanging of rings. Rather, as the couple places the rings on their 
-fingers and then hold hands, the Minister says: 
-By this sign you take each other, to have and to hold, from this day 
-forward, for better, for worse, for richer, for poorer; in sickness and in 
-health; to love and to cherish, till death do you part. 
+In the Church of Scotland ceremony, the couple do not speak at the exchanging of rings. 
+Rather, as the couple places the rings on their fingers and then hold hands, the Minister says: 
+~ By this sign you take each other, to have and to hold, from this day forward, for better, for worse, for richer, for poorer; 
+in sickness and in health; to love and to cherish, till death do you part. ~
 ```
 
 <p align="center">
