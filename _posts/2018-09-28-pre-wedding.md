@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 1028西雅图的宣誓仪式准备
-feature-img: "assets/img/posts/prewedding/cover.jpg"
-thumbnail: "assets/img/posts/prewedding/cover.jpg"
+title: 宣誓仪式准备
+feature-img: "assets/img/posts/prewedding/cover2.jpg"
+thumbnail: "assets/img/posts/prewedding/cover2.jpg"
 ---
 
 ### 试妆照 (09.28)
@@ -61,5 +61,4 @@ thumbnail: "assets/img/posts/prewedding/cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-10-18-flower2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-宣誓仪式照片 PC: ymy
 
