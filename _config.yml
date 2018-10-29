@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://selenitewhisper.github.io"
 title: Xinning & Jun # site's title
-description: "Xinning & Jun" # used by search engines
+description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
