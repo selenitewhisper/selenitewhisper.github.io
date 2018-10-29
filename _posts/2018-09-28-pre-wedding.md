@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 宣誓仪式准备
-feature-img: "assets/img/posts/prewedding/cover2.jpg"
-thumbnail: "assets/img/posts/prewedding/cover2.jpg"
+feature-img: "assets/img/posts/prewedding/cover2.png"
+thumbnail: "assets/img/posts/prewedding/cover2.png"
 ---
 
 ### 试妆照 (09.28)
