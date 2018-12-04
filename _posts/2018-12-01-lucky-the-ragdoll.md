@@ -1,0 +1,51 @@
+---
+layout: post
+title: 喵主子清单
+---
+
+## 猫咪生活用品
+
+One Time Purchase:
+
+* 猫砂盆: IRIS Medium Top Entry Cat Litter Box, White/Beige - $24
+[link](https://www.amazon.com/gp/product/B0794TLRDQ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
+
+* 猫粮真空储藏: IRIS Premium Airtight Pet Food Storage Containers - $10
+[link](https://www.amazon.com/gp/product/B00186O0SS/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
+
+* 猫食盆: Pidan Studio Raised Cat Food Bowl - $16
+[link](https://www.amazon.com/gp/product/B074CDMWLW/ref=ox_sc_act_title_7?smid=A10SW9EXXRLARV&psc=1) 
+
+* 猫食垫子: Hoki Found Silicone Waterproof Dog Cat Pet Food Mats Tray - $7
+[link](https://www.amazon.com/gp/product/B01N8TH7JY/ref=ox_sc_act_title_2?smid=A1477Z5QQEZZIC&psc=1)
+
+Subscription: 
+
+* 化毛膏: - $5
+[link](https://www.amazon.com/gp/product/B0002I9O84/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1)
+
+* 猫砂: $10+/every one or two month
+所有宠物店有卖
+
+* 猫食物: orijen fish/cat 12磅 - $60 吃小半年  = $10/month
+Mud Bay 有卖
+
+常用药物: 
+
+* 益生菌 - $3
+软便的时候用
+
+* 猫用赖氨酸 - $3-5
+打喷嚏的时候用 
+
+## 猫咪疫苗
+
+1. Absolutely NO Vaccines for Feline Leukemia (FELV), or Feline Infectious Peritonitis(FIP).  
+
+2. three way booster (3-way shot consists of (FPV) Feline Panleukopenia, (FHV-1) Feline Viral Rhinotracheitis and (FCV) Feline Calicivirus) - 半岁到一岁时 打一针: 可用 Fel-O-Guard Plus 3 或者 其他adjuvant free的
+
+3. Rabies - 用PureVax的
+
+[link](http://goodneighborvet.com/services/northwest-pet-vaccination-services.php)
+
+
