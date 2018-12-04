@@ -40,15 +40,13 @@ Mud Bay 有卖
 
 ## 猫咪疫苗
 
-1. Absolutely NO Vaccines for Feline Leukemia (FELV), or Feline Infectious Peritonitis(FIP).  
+* Absolutely NO Vaccines for Feline Leukemia (FELV), or Feline Infectious Peritonitis(FIP).  
 
-2. three way booster (3-way shot consists of (FPV) Feline Panleukopenia, (FHV-1) Feline Viral Rhinotracheitis and (FCV) Feline Calicivirus) - 
-半岁到一岁时 打一针: 可用 Fel-O-Guard Plus 3 或者 其他adjuvant free的
+* three way booster, FVRCP (3-way shot consists of (FPV) Feline Panleukopenia, (FHV-1) Feline Viral Rhinotracheitis and (FCV) Feline Calicivirus) - 可用 Fel-O-Guard Plus 3 或者 其他adjuvant free的, 半岁到一岁打
 
-3. Rabies - 用PureVax的
-半岁之后打
+* Rabies - 用PureVax的, 半岁之后
 
-2+3+除虫, 体检一起大约68元 可看Good Neighbor Vet的schedule然后半岁以后找一天去打了
+booster+ rabies + 除虫 + 体检一起大约68元, 可看Good Neighbor Vet的schedule, 然后半岁以后找一天去打了
 [link](http://goodneighborvet.com/services/northwest-pet-vaccination-services.php)
 
 
