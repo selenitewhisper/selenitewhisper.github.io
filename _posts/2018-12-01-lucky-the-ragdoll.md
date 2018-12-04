@@ -27,7 +27,7 @@ Subscription:
 * 猫砂: $10+/every one or two month
 所有宠物店有卖
 
-* 猫食物: orijen fish/cat 12磅 - $60 吃小半年  = $10/month
+* 猫食物: orijen fish/chicken 12磅 - $60 吃小半年  = $10/month
 Mud Bay 有卖
 
 常用药物: 
