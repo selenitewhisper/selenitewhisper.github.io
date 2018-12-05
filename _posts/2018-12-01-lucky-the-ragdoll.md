@@ -14,8 +14,8 @@ One Time Purchase:
 * 猫粮真空储藏: IRIS Premium Airtight Pet Food Storage Containers - $10
 [link](https://www.amazon.com/gp/product/B00186O0SS/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
 
-* 猫食盆: Pidan Studio Raised Cat Food Bowl - $16
-[link](https://www.amazon.com/gp/product/B074CDMWLW/ref=ox_sc_act_title_7?smid=A10SW9EXXRLARV&psc=1) 
+* 猫宅: 猫食盆+水盆: 
+[link](https://www.amazon.com/gp/product/B01M9IDJ9R/ref=ox_sc_saved_title_2?smid=A1VU7HQDV1QE9Y&psc=1) 
 
 * 猫食垫子: Hoki Found Silicone Waterproof Dog Cat Pet Food Mats Tray - $7
 [link](https://www.amazon.com/gp/product/B01N8TH7JY/ref=ox_sc_act_title_2?smid=A1477Z5QQEZZIC&psc=1)
@@ -28,7 +28,12 @@ Subscription:
 * 猫砂: $10+/every one or two month
 所有宠物店有卖
 
-* 猫食物: orijen fish/chicken 12磅 - $60 吃小半年  = $10/month
+* 猫食物: 
+
+幼猫阶段： 渴望鸡, orijen kitten (chicken formula) 4磅 - $25
+
+1岁之后: 渴望六种鱼 orijen six fish  4磅 - $27 / 12磅 - $63
+
 Mud Bay 有卖
 
 常用药物: 
