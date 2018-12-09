@@ -7,16 +7,16 @@ title: 喵主子清单
 
 One Time Purchase:
 
-* 猫砂盆: IRIS Medium Top Entry Cat Litter Box, White/Beige - $18
+* <del>猫砂盆: IRIS Medium Top Entry Cat Litter Box, White/Beige - $18
 [Box 2](https://www.amazon.com/gp/product/B076YR7VT2/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
 
-* 猫粮真空储藏: IRIS Premium Airtight Pet Food Storage Containers - $10
+* <del>猫粮真空储藏: IRIS Premium Airtight Pet Food Storage Containers - $10
 [link](https://www.amazon.com/gp/product/B00186O0SS/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
 
 * 猫宅: 猫食盆+水盆: 
 [link](https://www.amazon.com/gp/product/B01M9IDJ9R/ref=ox_sc_saved_title_2?smid=A1VU7HQDV1QE9Y&psc=1) 
 
-* 猫食垫子: Hoki Found Silicone Waterproof Dog Cat Pet Food Mats Tray - $7
+* <del>猫食垫子: Hoki Found Silicone Waterproof Dog Cat Pet Food Mats Tray - $7
 [link](https://www.amazon.com/gp/product/B01N8TH7JY/ref=ox_sc_act_title_2?smid=A1477Z5QQEZZIC&psc=1)
 
 Subscription: 
