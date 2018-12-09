@@ -13,7 +13,7 @@ One Time Purchase:
 * <del>猫粮真空储藏: IRIS Premium Airtight Pet Food Storage Containers - $10
 [link](https://www.amazon.com/gp/product/B00186O0SS/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1) - 可用员工折扣
 
-* 猫宅: 猫食盆+水盆: 
+* <del>猫宅: 猫食盆+水盆: 
 [link](https://www.amazon.com/gp/product/B01M9IDJ9R/ref=ox_sc_saved_title_2?smid=A1VU7HQDV1QE9Y&psc=1) 
 
 * <del>猫食垫子: Hoki Found Silicone Waterproof Dog Cat Pet Food Mats Tray - $7
