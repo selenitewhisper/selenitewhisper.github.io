@@ -15,7 +15,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/23/2018
 * 12:25	Departure from Paris (Air France 1596)  
-* 14:35	Arrive at Casablanca  
+* 15:35	Arrive at Casablanca  
 * 机场坐ONCF火车从卡萨布兰卡出发去马拉喀什 AEROPORT Med V - Marrakesh
 	+ 卡萨机场取行李后走下一层便是火车站, 需要转车, 坐一站就到L'OASIS
 	+ AEROPORT Med V - L'OASIS: 一小时一班, 车程0.5小时
@@ -29,14 +29,21 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/25/2018 
 * 沙漠团 Day 1 
-* **沙漠团提供住宿**
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day1.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 
 ### 12/26/2018 
 * 沙漠团 Day 2
-* **沙漠团提供住宿**
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day2.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 
 ### 12/27/2018 
 * 沙漠团 Day 3
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day3.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 * **住菲斯 Fes(booking.com): Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
 
 ### 12/28/2018 
@@ -46,6 +53,9 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/29/2018 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-FES-CHEFCHAOUEN.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 * 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510) Address: Chefchaouen, Tangier-Tetouan, Morocco. Phone: +212661895170, +212636927816, +212632708798**  
 ```
@@ -64,16 +74,19 @@ TODO: ask host about detailed address
 ### 12/31/2018  
 
 * 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发)
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-CHEFCHAOUEN-CASABLANCA.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 * 参观哈桑二世清真寺(Hassan II Mosque), 远处某个草地可以拍照
 * **住卡萨布兰卡 Casablanca(expedia.com): Atlas Sky Airport. Address: Zone Urbaine, Nouaceur, 101. Phone: +212-522-536200**
 
 ### 01/01/2019 (Flight)
-* 07:10	Departure from Casablanca (Air France 1497)  
+* 08:10	Departure from Casablanca (Air France 1497)  
 * 11:25	Arrive at Paris  
-* 13:10	Departure from Paris (Delta 501)  
-* 16:56	Arrive at Indianapolis  
-* 18:15	Departure from Indianapolis (Delta 2528)  
-* 19:30	Arrive at Seattle  
+* 15:40	Departure from Paris (Delta 8572 operated by AIR FRANCE)  
+* 18:35	Arrive at Detroit  
+* 20:25	Departure from Detroit (Delta 1823)  
+* 22:42	Arrive at Seattle  
 
 
 ## Notes: 
@@ -95,16 +108,19 @@ TODO: ask host about detailed address
 * 参数: iso 3200 f2.8 30 后帘同步闪光 星空人像
 
 ### 需要订购的 
-
+* 机票
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 * 酒店: 
-   + 12/23 马拉喀什 Marrakesh 住宿离火车站近
-   + 12/28 菲斯 Fes 住宿 + 12/30 舍夫沙万 Chefchaouen 住宿, 尽量离CTM大巴站近的，因为班车错过就没有了
-   + 12/31 卡萨布兰卡 Casablanca 住宿尽量离机场近
+   + <del>12/23 马拉喀什 Marrakesh 住宿离火车站近
+   + <del>12/28 菲斯 Fes 住宿 + 12/30 舍夫沙万 Chefchaouen 住宿, 尽量离CTM大巴站近的，因为班车错过就没有了
+   + <del>12/31 卡萨布兰卡 Casablanca 住宿尽量离机场近
 * 沙漠游 (12/25 - 12/27)
-* ONCF一等座火车票: 尽量订一等座，二等座可能没座位需要站着
+* <del>ONCF一等座火车票: 尽量订一等座，二等座可能没座位需要站着 (网站无法接受国外信用卡交易)
    + 12/23: AEROPORT Med V - Marrakesh
    购票: [ONCF官网](https://www.oncf-voyages.ma/), 需要转车
-* CTM大巴: 
+* <del>CTM大巴: 
    + 12/29: Fes - Chefchaouen
    购票: [淘宝link](https://traveldetail.fliggy.com/item.htm?spm=a230r.1.14.15.7ade275dbJaYfc&id=566056852188&ns=1&abbucket=12&smToken=2ced5bae210a448f87ed88c6dc4bb3c1&smSign=t5Y0dMkWLpR3H5Tgs0PBVw%3D%3D); [CTM官网](http://www.ctm.ma/)
 
@@ -115,9 +131,9 @@ TODO: ask host about detailed address
    Reservation #: 465993
 
 ### 需要携带的
-
+* 现金(<s>300 euro</s> + 200 usd)
 * 移动wifi, 或者morocco手机卡，注意关掉漫游(data roaming)
-* 防蚊喷雾
+* <del>防蚊喷雾
 * 防晒霜
 * 面膜 x 10
 * 转换插头：摩洛哥电压为170V/200V，50HZ，插座是两孔圆脚，需要携带转换插头，买欧标的转换插头
