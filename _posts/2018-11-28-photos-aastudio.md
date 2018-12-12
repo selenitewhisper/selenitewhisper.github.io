@@ -5,6 +5,8 @@ feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
 thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
+2018.10.28 
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/1-1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
