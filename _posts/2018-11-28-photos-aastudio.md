@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Xinning Jun Wedding - Shoreline Seattle By Aaron Liu Photography 
-feature-img: "assets/img/posts/aaronliu1028/20.jpeg"
-thumbnail: "assets/img/posts/aaronliu1028/20.jpeg"
+feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
+thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
 <p align="center">
