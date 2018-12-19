@@ -59,6 +59,12 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 * 参观皮革染坊(Chaouwara Tanneries), 梅里尼德王朝墓(Tombeaux Des Mérinides)
 * **住菲斯 Fes: Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
 
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/fes_map1.png?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+
 ### 12/29/2018 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)
 <p align="center">
