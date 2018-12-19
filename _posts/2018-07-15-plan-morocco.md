@@ -52,7 +52,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day3.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
-* **住菲斯 Fes(booking.com): Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
+* **住菲斯 Fes(chase portal): Hôtel Batha. Address: Place de l'Istiqlal, Fes 30000. Phone: +212535634860**
 
 ### 12/28/2018 
 * 老城: 蓝门(Bab Boujloud): Fes Medina的入口之一, 去蓝门拍照的话需要早起; 古兰经学校(Mederssa EL Bouanania Fes)
