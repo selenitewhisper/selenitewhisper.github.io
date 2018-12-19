@@ -56,7 +56,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 
 ### 12/28/2018 
 * 老城: 蓝门(Bab Boujloud): Fes Medina的入口之一, 去蓝门拍照的话需要早起; 古兰经学校(Mederssa EL Bouanania Fes)
-* 参观皮革染坊(Chaouwara Tanneries), 梅里尼德王朝墓(Tombeaux Des Mérinides)
+* 参观皮革染坊(chouara tannery), 梅里尼德王朝墓(Tombeaux Des Mérinides)
 * **住菲斯 Fes: Hôtel Batha. Address: Place de l'Istiqlal, Fes 30000. Phone: +212535634860**
 
 
