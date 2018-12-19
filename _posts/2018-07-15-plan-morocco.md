@@ -27,22 +27,30 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 * 参观 旧城大市集(Souk); 站马广场(Jemaa el-Fna); YSL花园(Jardin Majorelle); 巴伊亚宫殿(Bahia)
 * **住马拉喀什 Marrakesh: Riad al Rimal, 43 Derb Fahl Ezzafriti Quartier Laksour Marrakech, Phone: +212-66-1582972**
 
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/marrakesh_map1.png?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/marrakesh_map2.png?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
 ### 12/25/2018 
 * 沙漠团 Day 1 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day1.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day1.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 ### 12/26/2018 
 * 沙漠团 Day 2
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day2.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day2.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 ### 12/27/2018 
 * 沙漠团 Day 3
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day3.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/sahara_day3.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 * **住菲斯 Fes(booking.com): Riad Noujoum Medina. Address: 4 bis Derb Al Horra Talaa, Kebira, Fes El Bali. Phone: +212674828781**
 
@@ -54,7 +62,7 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 ### 12/29/2018 
 * 8am - 12am: 坐CTM大巴从菲斯到舍夫沙万 (4小时多)
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-FES-CHEFCHAOUEN.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-FES-CHEFCHAOUEN.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 * 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510) Address: Chefchaouen, Tangier-Tetouan, Morocco. Phone: +212661895170, +212636927816, +212632708798**  
@@ -75,7 +83,7 @@ TODO: ask host about detailed address
 
 * 7am - 13pm: 清晨坐CTM大巴从舍夫沙万到卡萨布兰卡 (每天只有一班，7点出发)
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-CHEFCHAOUEN-CASABLANCA.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-CHEFCHAOUEN-CASABLANCA.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 * 参观哈桑二世清真寺(Hassan II Mosque), 远处某个草地可以拍照
 * **住卡萨布兰卡 Casablanca(expedia.com): Atlas Sky Airport. Address: Zone Urbaine, Nouaceur, 101. Phone: +212-522-536200**
@@ -110,7 +118,7 @@ TODO: ask host about detailed address
 ### 需要订购的 
 * 机票
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 * 酒店: 
    + <del>12/23 马拉喀什 Marrakesh 住宿离火车站近
