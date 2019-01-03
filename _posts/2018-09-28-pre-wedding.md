@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 宣誓仪式准备
+title: 宣誓仪式相关小物
 feature-img: "assets/img/posts/prewedding/cover2.png"
 thumbnail: "assets/img/posts/prewedding/cover2.png"
 ---
 
 ### 试妆照 (09.28)
 
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-pre-wedding-2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
