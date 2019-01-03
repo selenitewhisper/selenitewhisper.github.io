@@ -11,7 +11,6 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 
 #### Where: Cannon Beanch, Oregon
 
-#### Pics
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/2018-07-01-engagement0.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
