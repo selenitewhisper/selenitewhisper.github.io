@@ -70,6 +70,9 @@ Confirmation code: RIG8DU(Air France), GRX376(Delta)
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM-FES-CHEFCHAOUEN.png?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/moroccoplan/CTM_Airbnb_Chefchaouen.png?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
 * 舍夫沙万后山马角公园(chefchaouen Ras Elma): 可俯瞰全景
 * **住舍夫沙万 Chefchaouen: [Airbnb](https://www.airbnb.com/rooms/13354510) Address: Chefchaouen, Tangier-Tetouan, Morocco. Phone: +212661895170, +212636927816, +212632708798**  
 ```
