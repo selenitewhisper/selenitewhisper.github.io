@@ -109,7 +109,7 @@ thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/18-3.jpeg?raw=true" alt="Photo" style="width: 1000px;"/>
+  <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/18-3.jpg?raw=true" alt="Photo" style="width: 1000px;"/>
 </p>
 
 <p align="center">
