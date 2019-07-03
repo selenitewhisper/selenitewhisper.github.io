@@ -14,3 +14,5 @@ thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 #### 录像分享版
 
 #### 花絮照片
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/bDE4k54vmXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
