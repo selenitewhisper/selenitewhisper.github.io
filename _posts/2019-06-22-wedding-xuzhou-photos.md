@@ -7,12 +7,12 @@ thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 
 #### 相片分享版
 
-[优酷链接](http://player.youku.com/embed/XNDI1Mjk0OTg0MA==)
+[优酷链接](http://player.youku.com/embed/XNDI1OTA4MzQzNg==)
 <iframe width="853" height="505" src="https://www.youtube.com/embed/ZK6XwocsWZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 #### 录像分享版
 
 #### 花絮照片
-
+[优酷链接](http://player.youku.com/embed/XNDI2NjExNDU5Ng==)
 <iframe width="853" height="505" src="https://www.youtube.com/embed/8cBEjvoU0DE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
