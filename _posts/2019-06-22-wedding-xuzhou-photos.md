@@ -5,19 +5,6 @@ feature-img: "assets/img/posts/0622/0622cover.jpeg"
 thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 ---
 
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/assets/img/posts/0622/1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/assets/img/posts/0622/2.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/assets/img/posts/0622/3.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
 #### 相片分享版
 
 [优酷链接](http://player.youku.com/embed/XNDI1Mjk0OTg0MA==)
