@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xinning & Jun's Wedding 06/22/2019, Xuzhou, China - By Insighten Pictures 四目影像
+title: Xinning & Jun's Wedding 06/22/2019, Xuzhou, China 
 feature-img: "assets/img/posts/0622/0622cover.jpeg"
 thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 ---
