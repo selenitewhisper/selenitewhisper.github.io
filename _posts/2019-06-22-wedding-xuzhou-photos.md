@@ -284,6 +284,10 @@ thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 </p>
 
 <p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/0622/20190622-ps0082.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/0622/20190622-ps0083.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
