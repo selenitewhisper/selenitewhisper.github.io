@@ -64,10 +64,3 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
-
-### 好吃哒!
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/days_yvr_foodie.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-
