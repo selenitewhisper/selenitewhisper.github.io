@@ -62,7 +62,7 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_1.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
 ### 好吃哒!
