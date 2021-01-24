@@ -7,6 +7,8 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 
 ### 05/26/2018
 
+**关键词:和平拱门, 周生生挑戒指, 情侣树长大, 夜市**
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day1_peach_arch.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
@@ -33,6 +35,8 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 
 ### 05/27/2018
 
+**关键词:煤气镇, 狮子桥, UBC冰淇淋**
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day2_gas_town.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
@@ -51,6 +55,8 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 
 ### 05/28/2018
 
+**关键词:太二酸菜鱼, 吊桥**
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_food_fish.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
@@ -59,13 +65,9 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_1.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_suspension_bridge_2.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-
 ### 好吃哒!
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/days_yvr_foodie.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/days_yvr_foodie.JPG?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
