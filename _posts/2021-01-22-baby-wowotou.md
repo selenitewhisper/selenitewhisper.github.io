@@ -10,3 +10,7 @@ Expected June 2021
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/nt_scan.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/good_luck.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
