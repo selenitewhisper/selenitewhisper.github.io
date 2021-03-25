@@ -45,12 +45,7 @@ thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/7.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/7-1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
+</p> 
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/8.jpeg?raw=true" alt="Photo" style="width: 1000px;"/>
