@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 可爱的窝窝头
+title: 可爱的宝宝
 feature-img: "assets/img/posts/wowotou/baby_cover.png"
 thumbnail: "assets/img/posts/wowotou/baby_cover.png"
 ---
