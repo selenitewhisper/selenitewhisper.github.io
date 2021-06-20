@@ -65,3 +65,7 @@ thumbnail: "assets/img/posts/wowotou/baby_cover.png"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
