@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 可爱的宝宝
+title: 怀孕记录
 feature-img: "assets/img/posts/wowotou/baby_cover.png"
 thumbnail: "assets/img/posts/wowotou/baby_cover.png"
 ---
@@ -46,26 +46,4 @@ thumbnail: "assets/img/posts/wowotou/baby_cover.png"
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/preg_photo9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-###  宝宝满月啦
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth3.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/wowotou/onemonth5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
