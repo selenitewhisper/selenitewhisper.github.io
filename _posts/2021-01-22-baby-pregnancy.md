@@ -14,6 +14,20 @@ thumbnail: "assets/img/posts/pregnancy/baby_cover.png"
   <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/good_luck.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
+###  28周孕照
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/preg_photo10.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/preg_photo11.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/preg_photo12.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
 ###  33周孕照
 
 <p align="center">
@@ -46,4 +60,10 @@ thumbnail: "assets/img/posts/pregnancy/baby_cover.png"
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/preg_photo9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+### 肚子集合
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/pregnancy/preg_photo13.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
