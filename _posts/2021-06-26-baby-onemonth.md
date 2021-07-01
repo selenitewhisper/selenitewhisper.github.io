@@ -24,7 +24,7 @@ thumbnail: "assets/img/posts/onemonth/baby_onemonth_cover.png"
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-###  第一次过父亲节
+###  胖新和胖宝宝第一次父亲节
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
@@ -32,4 +32,18 @@ thumbnail: "assets/img/posts/onemonth/baby_onemonth_cover.png"
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth6.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+###  宝宝第一次出门玩
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth7.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth8.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
