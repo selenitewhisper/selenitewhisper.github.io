@@ -51,3 +51,7 @@ thumbnail: "assets/img/posts/onemonth/baby_onemonth_cover.png"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth10.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth11.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
