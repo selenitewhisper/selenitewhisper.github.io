@@ -27,7 +27,7 @@ thumbnail: "assets/img/posts/onemonth/baby_onemonth_cover.png"
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-###  胖新和胖宝宝第一次父亲节
+###  胖新和宝宝的第一次父亲节
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onemonth/onemonth5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
