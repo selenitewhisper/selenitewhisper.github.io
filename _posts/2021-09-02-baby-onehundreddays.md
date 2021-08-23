@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 宝宝满月啦
+title: 宝宝百日照
 feature-img: "assets/img/posts/onehundreddays/baby_100_cover.png"
 thumbnail: "assets/img/posts/onehundreddays/baby_100_cover.png"
 ---
