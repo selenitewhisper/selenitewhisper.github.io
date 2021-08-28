@@ -30,6 +30,10 @@ thumbnail: "assets/img/posts/onehundreddays/baby_100_cover.png"
 </p>
 
 <p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred7.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
