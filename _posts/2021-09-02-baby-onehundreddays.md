@@ -24,3 +24,15 @@ thumbnail: "assets/img/posts/onehundreddays/baby_100_cover.png"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred6.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred10.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
