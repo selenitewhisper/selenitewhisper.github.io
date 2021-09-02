@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 宝宝百日照
+title: 宝宝百日啦
 feature-img: "assets/img/posts/onehundreddays/baby_100_cover.png"
 thumbnail: "assets/img/posts/onehundreddays/baby_100_cover.png"
 ---
+
+### 百日写真照
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
@@ -40,6 +42,8 @@ thumbnail: "assets/img/posts/onehundreddays/baby_100_cover.png"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred9.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+### 百日典礼
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/onehundreddays/onehundred10.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
