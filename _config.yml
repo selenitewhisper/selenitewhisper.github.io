@@ -9,7 +9,7 @@ description: "" # used by search engines
 theme_settings:
   # Meta
   title: S&S # blog's title
-  avatar: assets/junjunxinning.ico
+  avatar: assets/junjunxinning.png
   favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
 
