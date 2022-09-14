@@ -35,7 +35,7 @@ thumbnail: "assets/img/posts/hawaiiplan/waikiki_cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 800px;"/>
 </p>
 
-* Sea-tac机场停车: See QR code in email (portseattle.org, 09/13/2022).
+* Sea-tac机场停车 (QR code in email)
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/seatacparking.PNG?raw=true" alt="Photo" style="width: 800px;"/>
 
