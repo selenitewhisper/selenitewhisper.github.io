@@ -24,27 +24,25 @@ thumbnail: "assets/img/posts/hawaiiplan/waikiki_cover.jpg"
 * 2:00 PM	Departure from HNL (HA 22*)
 * 9:40 PM	Arrive at SEA
 
-
-### 需要订购的
-* 机票
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 1000px;"/>
-</p>
-
-* Sea-tac机场停车: See QR code in email (portseattle.org, 09/13/2022).
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/seatacparking.PNG?raw=true" alt="Photo" style="width: 1000px;"/>
-
-* 租车:
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/carrental.jpg?raw=true" alt="Photo" style="width: 1000px;"/>
-
-* 酒店:
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/airbnb.JPG?raw=true" alt="Photo" style="width: 1000px;"/>
-
-
 ### 需要携带的
 * 防晒霜
 * 婴儿安全座椅
 * 婴儿轻便推车
+
+### 需要订购的
+* 机票
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 800px;"/>
+</p>
+
+* Sea-tac机场停车: See QR code in email (portseattle.org, 09/13/2022).
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/seatacparking.PNG?raw=true" alt="Photo" style="width: 800px;"/>
+
+* 租车
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/carrental.jpg?raw=true" alt="Photo" style="width: 800px;"/>
+
+* 酒店
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/airbnb.JPG?raw=true" alt="Photo" style="width: 800px;"/>
