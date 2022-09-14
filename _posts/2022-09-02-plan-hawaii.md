@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hawaii O‘ahu旅行计划
+title: Hawaii Oahu旅行计划
 feature-img: "assets/img/posts/hawaiiplan/waikiki_cover.jpg"
 thumbnail: "assets/img/posts/hawaiiplan/waikiki_cover.jpg"
 ---
@@ -30,12 +30,15 @@ thumbnail: "assets/img/posts/hawaiiplan/waikiki_cover.jpg"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/flights_confirmation.png?raw=true" alt="Photo" style="width: 1000px;"/>
 </p>
+
 * Sea-tac机场停车: See QR code in email (portseattle.org, 09/13/2022).
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/seatacparking.PNG?raw=true" alt="Photo" style="width: 1000px;"/>
+
 * 租车:
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/carrental.jpg?raw=true" alt="Photo" style="width: 1000px;"/>
+
 * 酒店:
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/hawaiiplan/airbnb.JPG?raw=true" alt="Photo" style="width: 1000px;"/>
