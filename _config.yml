@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://selenitewhisper.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: S & S                                   # site's title
+title: S&S                                   # site's title
 description: ""      # used by search engines
 avatar: assets/junjunxinning.png                         # Empty for no avatar in navbar
 favicon: assets/ss_icon.ico                             # Icon displayed in the tab
