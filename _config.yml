@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://selenitewhisper.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -11,7 +11,6 @@ favicon: assets/ss_icon.ico                             # Icon displayed in the 
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
-
 
 # PORTFOLIO
 collections:
