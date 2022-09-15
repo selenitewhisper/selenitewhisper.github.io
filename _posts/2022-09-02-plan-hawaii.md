@@ -49,7 +49,8 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * Yoshitsune 寿喜锅, 需预约
 * Aburiya Ibushi 炭烤, 需预约
 * Ginza Bairin Tonkatsu 猪排, 需预约
-* 早餐/甜点: Island Vintage Coffee (wagyu beef loco moco, acai bowl, taro/ube bagel, etc), Kona Coffee Purveyors(black seasame kouign, coconut pinapple croissant, raspberry scone), Island Vintage Shaved Ice
+* 早午餐: Island Vintage Coffee (wagyu beef loco moco, acai bowl, taro/ube bagel, etc)
+* 甜点: Kona Coffee Purveyors(black seasame kouign, coconut pinapple croissant, raspberry scone), Island Vintage Shaved Ice
 
 ### 需要携带的
 * 现金用来给valet parking和其它小费
