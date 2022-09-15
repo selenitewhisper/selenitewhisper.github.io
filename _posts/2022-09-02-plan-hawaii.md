@@ -19,21 +19,26 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * International shopping center或者Ala Moana Center购物。
 
 ### 11/28/2022
-* Ko Olina Lagoon: 早去不然不好停车。
-* Disney Aulani酒店买星黛露: 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm), 买完东西记得validate parking。酒店30分钟免费停车, 或者消费$50以上可以免费2.5小时valet parking。
-* Ko Olina吃饭: Island Vintage Coffee分店(这家ube bagel很有嚼劲), Monkeypod Kitchen的夏威夷果包鱼(macadamia nut crusted fresh fish)。
+- Ko Olina Lagoon: 早去不然不好停车。
+- Disney Aulani酒店买星黛露:
+  - 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm), 买完东西记得validate parking。酒店30分钟免费停车, 或者消费$50以上可以免费2.5小时valet parking。
+- Ko Olina吃饭:
+  - Island Vintage Coffee分店(这家ube bagel很有嚼劲), Monkeypod Kitchen的夏威夷果包鱼(macadamia nut crusted fresh fish)。
 
 ### 11/29/2022
-* Dole菠萝园: 可买迷宫 + 花园 + 火车联票, 早去(9AM)坐第一班火车(其它时间火车排队50分钟), 记得吃菠萝冰淇淋。
-* Laniakea Beach看海龟, 海龟12PM-3PM出没。
-* <span style="color:blue"> Haleiwa小镇吃午饭: 虾饭餐车(最出名的是Giovanni), Island Vintage Coffee分店, Ray's Kiawe烤鸡。</span>
+- Dole菠萝园:
+  - 可买迷宫 + 花园 + 火车联票, 早去(9AM)坐第一班火车(其它时间火车排队50分钟), 记得吃菠萝冰淇淋。
+- Laniakea Beach看海龟, 海龟12PM-3PM出没。
+- Haleiwa小镇吃午饭:
+  - 虾饭餐车(最出名的是Giovanni), Island Vintage Coffee分店, Ray's Kiawe烤鸡。
 
 ### 12/01/2022
-* The Byodo-in Temple日本园林: 可以喂锦鲤。
-* Hoomaluhia Botanical Garden。
+- The Byodo-in Temple日本园林: 可以喂锦鲤。
+- Hoomaluhia Botanical Garden。
 
 ### 12/02/2022
-* Lanikai, Kailua 白沙滩: Kailua三个停车场可以停车，其中boat ramp离Lanikai最近。
+- Lanikai, Kailua 白沙滩:
+  - Kailua三个停车场可以停车，其中boat ramp离Lanikai最近。
 
 ### 12/03/2022
 * 上午: Airbnb check-out, 机场还车
