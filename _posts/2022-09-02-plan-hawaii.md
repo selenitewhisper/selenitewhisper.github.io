@@ -12,9 +12,10 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * 11:06 AM Arrive at HNL
 * 机场取车, 记得刷沈胖的卡可以有额外的租车保险
 * 开车到Airbnb（车程20分钟）, 3PM入住。
-* 煊宝宝休息，爸爸妈妈可以去Disney Aulani酒店（车程40分钟）买星黛露。星黛露在Kalepa's Store（Located near the Maka‘ala lobby on the ‘Ewa Tower side, 营业时间8AM-9pm)，买完东西记得validate parking。酒店30分钟免费停车，或者消费$50以上可以免费2.5小时valet parking。
 
 ### 11/28/2022
+* 煊宝宝休息，爸爸妈妈可以去Disney Aulani酒店（车程40分钟）买星黛露。星黛露在Kalepa's Store（Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm)，买完东西记得validate parking。酒店30分钟免费停车，或者消费$50以上可以免费2.5小时valet parking。
+
 ### 11/29/2022
 ### 11/30/2022
 ### 12/01/2022
