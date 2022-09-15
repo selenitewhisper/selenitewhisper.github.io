@@ -19,7 +19,6 @@ theme_settings:
   header_text_feature_image: assets/img/wallpaper_morocco.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
-
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
@@ -78,7 +77,7 @@ theme_settings:
 
 
 # PAGINATION
-paginate: 8
+paginate: 5
 paginate_path: "blog/page:num"
 
 
@@ -88,12 +87,12 @@ collections:
     output: true
     permalink: /:collection/:name
 
+
 # BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
 sass:
-  sass_dir: _sass
-  style: :compressed
+  style: compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
-exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", ".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
