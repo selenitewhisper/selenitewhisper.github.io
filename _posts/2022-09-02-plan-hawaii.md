@@ -8,8 +8,8 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 ## 行程
 
 ### 11/27/2022
-* 7:00 AM	Departure from SEA (HA 27*)
-* 11:06 AM Arrive at HNL
+* 7:00AM	Departure from SEA (HA 27*)
+* 11:06AM Arrive at HNL
 * 机场取车, 记得刷沈胖的卡可以有额外的租车保险。
 * 开车到Airbnb(车程20分钟), 3PM入住。
 * Waikiki夜景。
@@ -21,7 +21,7 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 ### 11/29/2022
 - Ko Olina Lagoon: 早去不然不好停车。
 - Disney Aulani酒店买星黛露:
-  - 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm), 买完东西记得validate parking。酒店30分钟免费停车, 或者消费$50以上可以免费2.5小时valet parking。
+  - 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9PM), 买完东西记得validate parking。酒店30分钟免费停车, 或者消费$50以上可以免费2.5小时valet parking。
 - Ko Olina吃饭:
   - Island Vintage Coffee分店(这家ube bagel很有嚼劲), Monkeypod Kitchen的夏威夷果包鱼(macadamia nut crusted fresh fish)。
 
@@ -60,6 +60,16 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * 充气泳圈
 * 婴儿安全座椅
 * 婴儿轻便推车
+
+### 其它备选景点
+- 钻石山:
+  - 俯瞰Waikiki全景, 需要爬山, 停车门票需提前几天预定。不好带煊。
+- 古兰尼牧场:
+  - 电影侏罗纪公园取景地, 需提前几天预定。有意思的项目有atv越野车, zipline高空索道。不好带煊。
+- 恐龙湾:
+  - 浮潜, 需提前几天预定。不好带煊。
+- KCC农贸市场:
+  - 周六7:30AM开门, 是回程的那一天。来得及可以去逛逛。
 
 ### 需要订购的
 * 机票
