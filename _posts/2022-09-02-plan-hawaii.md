@@ -11,7 +11,7 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * 7:00 AM	Departure from SEA (HA 27*)
 * 11:06 AM Arrive at HNL
 * 机场取车, 记得刷沈胖的卡可以有额外的租车保险。
-* 开车到Airbnb（车程20分钟）, 3PM入住。
+* 开车到Airbnb(车程20分钟), 3PM入住。
 * Waikiki夜景。
 
 ### 11/30/2022
@@ -20,14 +20,15 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 
 ### 11/28/2022
 * Ko Olina Lagoon, 早去不然不好停车。
-* Disney Aulani酒店买星黛露。星黛露在Kalepa's Store（Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm)，买完东西记得validate parking。酒店30分钟免费停车，或者消费$50以上可以免费2.5小时valet parking。
+* Disney Aulani酒店买星黛露。星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side, 营业时间8AM-9pm), 买完东西记得validate parking。酒店30分钟免费停车, 或者消费$50以上可以免费2.5小时valet parking。
 
 ### 11/29/2022
-* Dole菠萝园，可买迷宫 + 花园 + 火车联票，早去（9AM）坐第一班火车（其它时间火车排队50分钟），记得吃菠萝冰淇淋。
-* Laniakea Beach看海龟，海龟12PM-3PM出没。
+* Dole菠萝园，可买迷宫 + 花园 + 火车联票, 早去(9AM)坐第一班火车(其它时间火车排队50分钟), 记得吃菠萝冰淇淋。
+* Haleiwa小镇吃午饭: 虾饭餐车(最出名的是Giovanni), Island Vintage Coffee分店, Ray's Kiawe烤鸡。
+* Laniakea Beach看海龟, 海龟12PM-3PM出没。
 
 ### 12/01/2022
-* The Byodo-in Temple日本园林，可以喂锦鲤。
+* The Byodo-in Temple日本园林, 可以喂锦鲤。
 * Hoomaluhia Botanical Garden。
 
 ### 12/02/2022
@@ -39,9 +40,9 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * 9:40 PM	Arrive at SEA
 
 ### 打卡美食
-* Yoshitsune 寿喜锅，需预约
-* Aburiya Ibushi 炭烤，需预约
-* Ginza Bairin Tonkatsu 猪排，需预约
+* Yoshitsune 寿喜锅, 需预约
+* Aburiya Ibushi 炭烤, 需预约
+* Ginza Bairin Tonkatsu 猪排, 需预约
 * 早餐/甜点: Island Vintage Coffee (wagyu beef loco moco, acai bowl, taro/ube bagel, etc), Kona Coffee Purveyors(black seasame kouign, coconut pinapple croissant, raspberry scone), Island Vintage Shaved Ice
 
 ### 需要携带的
