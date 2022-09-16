@@ -21,9 +21,9 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 - International shopping center或者Ala Moana Center购物。
 
 ### 11/29/2022
-- Ko Olina环礁海湾:
+- Ko Olina环礁海湾(Ko Olina Lagoon):
   - 有四个(人造)环礁海湾，Lagoon 1-3属于酒店，先去Lagoon 4。早去不然不好停车。
-- 迪士尼Aulani酒店买星黛露:
+- 迪士尼酒店(Aulani):
   - 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side，营业时间8AM-9PM)，买完东西记得validate parking。酒店30分钟免费停车，或者消费$50以上可以免费2.5小时valet parking。
 - Ko Olina地区吃午饭:
   - Island Vintage Coffee分店(这家ube bagel很有嚼劲)，Monkeypod Kitchen的夏威夷果包鱼(macadamia nut crusted fresh fish)。
@@ -31,7 +31,7 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 ### 11/30/2022
 - Dole菠萝园:
   - 可买迷宫 + 花园 + 火车联票，早去(9AM)坐第一班火车(其它时间火车排队50分钟)，记得吃菠萝冰淇淋。
-- Laniakea Beach:
+- Laniakea海滩:
   - 看海龟，海龟12PM-3PM出没。
 - Haleiwa小镇吃午饭:
   - 虾饭餐车(最出名的是Giovanni)，Island Vintage Coffee分店，Ray's Kiawe烤鸡。
