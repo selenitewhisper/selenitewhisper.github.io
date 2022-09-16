@@ -15,26 +15,31 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * Waikiki夜景。
 
 ### 11/28/2022
-* Honululu 动物园。
-* International shopping center或者Ala Moana Center购物。
+- 火奴鲁鲁动物园 (Honululu Zoo)。
+- 钻石山 (Diamond Head):
+  - 俯瞰Waikiki全景，需提前预约。[链接](https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/)
+- International shopping center或者Ala Moana Center购物。
 
 ### 11/29/2022
-- Ko Olina Lagoon: 早去不然不好停车。
-- Disney Aulani酒店买星黛露:
+- Ko Olina环礁海湾:
+  - 有四个(人造)环礁海湾，Lagoon 1-3属于酒店，先去Lagoon 4。早去不然不好停车。
+- 迪士尼Aulani酒店买星黛露:
   - 星黛露在Kalepa's Store(Located near the Makaala lobby on the Ewa Tower side，营业时间8AM-9PM)，买完东西记得validate parking。酒店30分钟免费停车，或者消费$50以上可以免费2.5小时valet parking。
-- Ko Olina吃饭:
+- Ko Olina地区吃午饭:
   - Island Vintage Coffee分店(这家ube bagel很有嚼劲)，Monkeypod Kitchen的夏威夷果包鱼(macadamia nut crusted fresh fish)。
 
 ### 11/30/2022
 - Dole菠萝园:
   - 可买迷宫 + 花园 + 火车联票，早去(9AM)坐第一班火车(其它时间火车排队50分钟)，记得吃菠萝冰淇淋。
-- Laniakea Beach看海龟，海龟12PM-3PM出没。
+- Laniakea Beach:
+  - 看海龟，海龟12PM-3PM出没。
 - Haleiwa小镇吃午饭:
   - 虾饭餐车(最出名的是Giovanni)，Island Vintage Coffee分店，Ray's Kiawe烤鸡。
 
 ### 12/01/2022
-- The Byodo-in Temple日本园林: 可以喂锦鲤。
-- Hoomaluhia Botanical Garden。
+- 平等园(The Byodo-in Temple):
+  - 日本园林，可以喂锦鲤。
+- 植物园(Hoomaluhia Botanical Garden)
 
 ### 12/02/2022
 - Lanikai, Kailua 白沙滩:
@@ -62,11 +67,9 @@ thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 * 婴儿轻便推车
 
 ### 其它备选景点
-- 钻石山:
-  - 俯瞰Waikiki全景，需要爬山，停车门票需提前几天预定。不好带煊。
-- 古兰尼牧场:
+- 古兰尼牧场 (Kualoa Ranch):
   - 电影侏罗纪公园取景地，需提前几天预定。有意思的项目有atv越野车，zipline高空索道。不好带煊。
-- 恐龙湾:
+- 恐龙湾 (Hanauma Bay):
   - 浮潜，需提前几天预定。不好带煊。
 - KCC农贸市场:
   - 周六7:30AM开门，是回程的那一天。来得及可以去逛逛。
