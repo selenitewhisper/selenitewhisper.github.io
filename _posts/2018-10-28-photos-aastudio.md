@@ -5,7 +5,7 @@ feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
 thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
-### 2018.10.28 Cromwell park, Shoreline
+### 2018.10.28 
 #### Credit to: Aaron Liu Photography 
 
 
