@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Xinning & Jun's Ceremony - Shoreline Seattle By Aaron Liu Photography 
+title: Xinning & Jun's Ceremony, Shoreline, Seattle 
 feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
 thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
-### 2018.10.28 
+### 2018.10.28 Cromwell park, Shoreline
+#### Credit to: Aaron Liu Photography 
 
 
 <p align="center">
