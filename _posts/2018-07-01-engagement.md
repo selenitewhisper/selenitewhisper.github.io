@@ -5,7 +5,7 @@ feature-img: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 ---
 
-#### 2018.07.01, we are engaged!
+### 2018.07.01, we are engaged!
 
 #### Who: Xinning & Jun
 
