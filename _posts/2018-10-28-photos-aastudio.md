@@ -5,9 +5,7 @@ feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
 thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
-### 2018.10.28 
-#### Credit to: Aaron Liu Photography 
-
+### 2018.10.28
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
@@ -152,3 +150,5 @@ thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/36.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+#### Photos Credit to Aaron Liu Photography 
