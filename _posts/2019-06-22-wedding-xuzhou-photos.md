@@ -7,7 +7,11 @@ thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 
 ### 2019.06.22 徐州
 
-#### 视频集锦
+#### 小电影
+
+<iframe width="853" height="505" src="https://www.youtube.com/embed/Gs6Tyl9l-9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### 电子相册
 
 <iframe width="853" height="505" src="https://www.youtube.com/embed/ej1KHxL48dM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
