@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 奥兰多旅行计划
+title: Orlando旅行计划
 feature-img: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
 thumbnail: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
 ---
