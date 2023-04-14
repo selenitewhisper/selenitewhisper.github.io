@@ -17,6 +17,6 @@ thumbnail: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
 
 ## 其它准备
 
-* 购物：手机相机防水密封袋，iphone浮潜防水手机壳，浮潜装备，潜水服。
-* 停车：masterpark garage 
-* 租车：Avis 
+* 购物：手机相机防水密封袋，iphone浮潜防水手机壳，潜水服 (淘宝已购)。浮潜装备 (todo)。
+* 停车：masterpark garage (todo)。
+* 租车：Avis (已定，邮箱有confirmation)。
