@@ -17,6 +17,6 @@ thumbnail: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
 
 ## 其它准备
 
-* 购物：手机相机防水密封袋，iphone浮潜防水手机壳，潜水服 (淘宝已购)。浮潜装备 (todo)。
-* 停车：masterpark garage (todo)。
+* 购物：手机相机防水密封袋，潜水服 (淘宝已购)。浮潜装备 (到当地塔吉特购买)。
+* 停车：masterpark garage (已预定，checkout时出示coupon #3286)。
 * 租车：Avis (已定，邮箱有confirmation)。
