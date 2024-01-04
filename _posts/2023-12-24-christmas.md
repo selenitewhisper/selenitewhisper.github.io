@@ -9,7 +9,7 @@ thumbnail: "assets/img/posts/2023christmas/newport_beach_family.jpg"
 
 ### Day 1 (2023-12-21)
 
-起飞前一天收到航空公司的通知说机场排队久，建议提早做好安排。早上8点的飞机，夜里基本没睡。凌晨三点多一家三口驱车前往西雅图机场。每次见到凌晨四点的西雅图都是在赶完机场的路上
+起飞前一天收到航空公司的通知说机场排队久，建议提早做好安排。早上8点的飞机，夜里基本没睡。凌晨三点多一家三口驱车前往西雅图机场。每次见到凌晨四点的西雅图都是在赶去机场的路上
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day1/shuttle_to_seatac.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
