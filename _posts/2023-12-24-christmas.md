@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2023圣诞节
-feature-img: "assets/img/posts/2023christmas/newportbeach.jpg"
-thumbnail: "assets/img/posts/2023christmas/newportbeach.jpg"
+feature-img: "assets/img/posts/2023christmas/newport_beach_family.jpg"
+thumbnail: "assets/img/posts/2023christmas/newport_beach_family.jpg"
 ---
 
 时隔4年，再一次回到了熟悉的南加，不同的是从之前的两人变成了现在的一家三口。计划了7天的南加行：5天圣地亚哥，2天尔湾。
