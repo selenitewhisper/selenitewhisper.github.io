@@ -24,7 +24,7 @@ thumbnail: "assets/img/posts/2023christmas/newport_beach_family.jpg"
 提前两小时到了安检口（后来飞机又晚点了两小时才飞），妈妈搞了两杯咖啡提神
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day1/costa_coffe.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day1/costa_coffee.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 由于没有假期，妈妈候机的时候还得加班工作
