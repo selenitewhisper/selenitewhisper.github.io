@@ -146,7 +146,7 @@ City Cruise (City Pass 选的一个项目)，做个船沿着海湾转一圈，�
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day4/zouni.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day4/zouni.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 结束后吃了加州特产In n Out，学生时代在Irvine吃的最多的快餐
