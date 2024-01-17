@@ -227,7 +227,7 @@ Disney Land，带娃的保留项目旋转木马
 为了煊宝最爱的美妮也是排了45分钟的队伍。排队的过程中看到了布鲁多，唐老鸭还有黛西。
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/3.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
@@ -242,19 +242,19 @@ Disney Land，带娃的保留项目旋转木马
 Disney genie plus 照相免费
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/1.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/2.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/4.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/4.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day7/5.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 上次去奥兰多没看到Small World，这次弥补了遗憾，回来的路上还把It's a small world设置成了手机铃声，实在是太喜欢了。
