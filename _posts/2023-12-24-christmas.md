@@ -107,7 +107,7 @@ thumbnail: "assets/img/posts/2023christmas/newport_beach_family.jpg"
 妈妈努力地在够一个崭新的capybara
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day3/zoo_family.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day3/zoo_capybara.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 中午吃了妈妈心心念的麻辣烫yintang
