@@ -58,9 +58,8 @@ layout: default
   </div>
   {% endif %}
 
-  <audio autoplay loop src="/assets/music/itsasmallworld.mp3"></audio>
+  <audio controls autoplay loop>
+  <source src="/assets/music/itsasmallworld.mp3" type="audio/mpeg">
+  </audio>
 
-  <script>
-    var myaudio = document.getElementById("audioID").autoplay = true;
-  </script>
 </div>
