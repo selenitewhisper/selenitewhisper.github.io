@@ -291,3 +291,5 @@ Disney genie plus 照相免费
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/2023christmas/day8/new_port_beach_family.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
+
+{% include its_a_small_world_audio.html %}
