@@ -39,7 +39,7 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day1_6.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-**吃饱晚饭之后，我们就到列治文夜市去吃夜宵了。列治文夜市有很多国内的网红美食，我们点了奶茶、菠萝饮料、烤冷面和章鱼小丸子。沈老师在玩游戏赢娃娃的柜台大展身手，喜提一个巨大号的轻松熊。**
+**吃饱晚饭之后，我们就到列治文夜市去吃夜宵了。列治文夜市有很多国内的网红美食，我们点了奶茶、菠萝饮料、烤冷面和章鱼小丸子。沈老师在玩游戏赢娃娃的柜台大展身手，喜提一只巨大的轻松熊。**
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day1_7.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
@@ -94,7 +94,7 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day2_3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-**下午我们去了stanley park，sunset beach和ubc。远远看到了狮子门大桥，还打卡了ubc好吃的冰淇淋。在ubc的时候我一直担心会碰到沈老师认识的某个刚结婚的初中同学，还刷了这个人的ig看看她有没有到温哥华来。**
+**下午我们去了stanley park，sunset beach和ubc。远远看到了狮子门大桥，还打卡了ubc好吃的冰淇淋。在ubc的时候，我一直担心沈老师会碰到他认识的某个刚结婚的初中女同学，还刷了这个人的ig看看她有没有到温哥华来。**
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day2_4.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
