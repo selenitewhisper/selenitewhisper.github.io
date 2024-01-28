@@ -118,7 +118,7 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 
 ### 05/28/2018
 
-**沈老师看我的裤子太紧了穿着不舒服，拉着我到zara买阔腿裤，陪了一套还挺好看的。**
+**沈老师看我的裤子太紧了穿着不舒服，拉着我到zara买阔腿裤，搭配的一套还挺好看的。**
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
