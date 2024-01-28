@@ -151,7 +151,3 @@ thumbnail: "assets/img/posts/vancouver/vancouver_trip_cover.jpg"
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_7.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
-
-<p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/vancouver/day3_8.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
-</p>
