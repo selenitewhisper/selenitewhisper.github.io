@@ -8,7 +8,7 @@ description: "" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: S&S # blog's title
+  title: # blog's title
   avatar: assets/junjunxinning.png
   favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
