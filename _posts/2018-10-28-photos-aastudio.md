@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Xinning & Jun's Ceremony, Shoreline, Seattle 
+title: 领证仪式
 feature-img: "assets/img/posts/aaronliu1028/20_cover.png"
 thumbnail: "assets/img/posts/aaronliu1028/20_cover.png"
 ---
 
-### 2018.10.28
+### 2018.10.28, Shoreline, Seattle
 
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/aaronliu1028/1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 

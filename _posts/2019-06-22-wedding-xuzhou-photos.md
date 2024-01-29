@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Xinning & Jun's Wedding, Xuzhou, China 
+title: 正式婚礼
 feature-img: "assets/img/posts/0622/0622cover.jpeg"
 thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 ---
 
-### 2019.06.22 徐州
+### 2019.06.22，徐州
 
 #### 小电影
 
