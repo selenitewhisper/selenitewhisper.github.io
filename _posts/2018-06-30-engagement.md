@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 订婚啦！
-feature-img: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
-thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
+feature-img: "assets/img/posts/engagement/5.jpg"
+thumbnail: "assets/img/posts/engagement/5.jpg"
 ---
 
 ### 2018.06.30, Cannon Beanch, Oregon
