@@ -1,21 +1,20 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://selenitewhisper.github.io"
-title: 1028 Love | Travel Journal and Memorabilia of S&S # site's title
+title: "1028 Love | Travel Journal and Memorabilia of S&S # site's title"
 description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: # blog's title
+  title: 1028 ♥ # blog's title
   avatar: assets/junjunxinning.png
   favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <p>ʚ♥ɞ</p>
+  header_text:
   header_text_feature_image: assets/img/wallpaper_morocco.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
