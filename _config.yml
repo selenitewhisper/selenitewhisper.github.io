@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://selenitewhisper.github.io"
-title: A quiet and warm place # site's title
+title: 1028 Love | Travel Journal and Memorabilia # site's title
 description: "" # used by search engines
 
 
@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>A quiet and warm place</p>
+     <p>ʚ♥ɞ</p>
   header_text_feature_image: assets/img/wallpaper_morocco.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
