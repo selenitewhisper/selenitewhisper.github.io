@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 记录这一天
+title: 订婚啦！
 feature-img: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 ---
 
-### 2018.06.30, Cannon Beanch, Oregon, we are engaged!
+### 2018.06.30, Cannon Beanch, Oregon
 
 **去Washington square的Bluenile取戒指啦！吃cheesecake factory庆祝一下~**
 
