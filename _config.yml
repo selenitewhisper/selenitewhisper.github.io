@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://selenitewhisper.github.io"
-title: 1028 Love︱Travel Journal and Memorabilia # site's title
+title: 1028 Love〡Travel Journal and Memorabilia # site's title
 description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 1028 ♥ # blog's title
+  title: 1028 ❤ # blog's title
   avatar: assets/junjunxinning.png
   favicon: assets/ss_icon.ico
   gravatar: # Email MD5 hash
