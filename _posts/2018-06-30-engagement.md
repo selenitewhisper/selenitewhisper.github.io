@@ -32,7 +32,7 @@ thumbnail: "assets/img/posts/engagement/2018-07-01-engagement0.JPG"
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/6.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/engagement/6.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 **我们来到Cannon Beanch，沈老师变出来了一束红色玫瑰手捧花，是我最喜欢的圆球形花束。他求婚的时候直接下跪了，而不是单膝跪地，让他重新来一次还忸忸怩怩的。**
