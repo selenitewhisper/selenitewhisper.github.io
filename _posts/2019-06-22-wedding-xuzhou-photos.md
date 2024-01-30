@@ -5,7 +5,7 @@ feature-img: "assets/img/posts/0622/0622cover.jpeg"
 thumbnail: "assets/img/posts/0622/0622cover.jpeg"
 ---
 
-### 2019.06.22，徐州
+### 2019.06.22, 徐州
 
 #### 小电影
 
