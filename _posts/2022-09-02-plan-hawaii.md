@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Oahu旅行计划
-feature-img: "assets/img/posts/hawaiiplan/wakiki_cover.png"
-thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
+# feature-img: "assets/img/posts/hawaiiplan/wakiki_cover.png"
+# thumbnail: "assets/img/posts/hawaiiplan/wakiki_cover.png"
 ---
 Oahu
 ## 行程

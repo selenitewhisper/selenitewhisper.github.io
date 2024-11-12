@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Morocco旅行计划
-feature-img: "assets/img/posts/moroccoplan/morroco_cover.jpg"
-thumbnail: "assets/img/posts/moroccoplan/morroco_cover.jpg"
+# feature-img: "assets/img/posts/moroccoplan/morroco_cover.jpg"
+# thumbnail: "assets/img/posts/moroccoplan/morroco_cover.jpg"
 ---
 
 ## 行程

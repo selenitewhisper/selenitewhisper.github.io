@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Orlando旅行计划
-feature-img: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
-thumbnail: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
+# feature-img: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
+# thumbnail: "assets/img/posts/orlandoplan/orlando_plan_cover.jpg"
 ---
 
 
