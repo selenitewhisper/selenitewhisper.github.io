@@ -11,7 +11,7 @@ favicon: assets/ss_icon.ico
 # Header and footer text
 header_text: 〝(ˆ(oo)ˆ)〞  # Change Blog header text
 header_feature_image: assets/img/header/morocco.jpg
-header_feature_image_responsive: true
+header_feature_image_responsive: false
 footer_text: >
   © 2024 Selenite. All Rights Reserved.
 
