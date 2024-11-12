@@ -3,14 +3,14 @@ baseurl: ""
 url: "https://selenitewhisper.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: 1028 Love〡Travel Journal and Memorabilia # site's title
+title: 1028 Love〡Travel Journal # site's title
 description: "" # used by search engines
 avatar: assets/junjunxinning.png
 favicon: assets/ss_icon.ico
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/header/guanajuato.jpg
+header_feature_image: assets/img/header/morocco.jpg
 header_feature_image_responsive: true
 footer_text: >
   © 2024 Selenite. All Rights Reserved.
