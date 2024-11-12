@@ -2,7 +2,8 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/galleries"
+feature-img: "assets/img/posts/morocco/morocco_cover.png"
 ---
 
 
