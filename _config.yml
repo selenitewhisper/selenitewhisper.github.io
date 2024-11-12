@@ -9,7 +9,7 @@ avatar: assets/junjunxinning.png
 favicon: assets/ss_icon.ico
 
 # Header and footer text
-header_text: ^o^  # Change Blog header text
+header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
 header_feature_image: assets/img/header/wallpaper_morocco_small.jpeg
 header_feature_image_responsive: true
 footer_text: >
