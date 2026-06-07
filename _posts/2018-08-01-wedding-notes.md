@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 戒指的故事
-feature-img: "assets/img/posts/weddingbands/cover.jpg"
-thumbnail: "assets/img/posts/weddingbands/cover.jpg"
+feature-img: "assets/img/posts/wedding-notes/cover.jpg"
+thumbnail: "assets/img/posts/wedding-notes/cover.jpg"
 ---
 
 ### 戒指 Wedding Bands (07.16)
@@ -22,23 +22,23 @@ in sickness and in health; to love and to cherish, till death do you part. ~
 ```
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wedding-notes/2018-07-16-rings1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wedding-notes/2018-07-16-rings2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wedding-notes/2018-07-16-rings3.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/weddingbands/2018-07-16-rings5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/wedding-notes/2018-07-16-rings5.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/prewedding/2018-09-28-ring.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/pre-wedding/2018-09-28-ring.JPG?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 

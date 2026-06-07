@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2023感恩节
-feature-img: "assets/img/posts/2023thanksgiving/copybara.jpg"
-thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
+feature-img: "assets/img/posts/thanks-giving/copybara.jpg"
+thumbnail: "assets/img/posts/thanks-giving/copybara.jpg"
 ---
 
 
@@ -13,7 +13,7 @@ thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
 这次的airbnb选的非常成功，就在richmond town center对面，楼下就是吃茶三千
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/chichasanqian.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/chichasanqian.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 简单的记录一下这几天吃的美食:
@@ -21,25 +21,25 @@ thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
 京炭烧烤
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/jingtan.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/jingtan.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 刘姥姥砂锅麻辣烫
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/liulaolaoshaguomalatang.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/liulaolaoshaguomalatang.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 好吃的pokey okay
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/pokeyokay.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/pokeyokay.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 耕食记
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/gengshiji.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/gengshiji.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 ### 购物
@@ -47,15 +47,15 @@ thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
 最开心的还是给老婆买到了非常喜欢的东西
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/vca1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/vca1.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/vca2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/vca2.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/Cinnamoroll.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/Cinnamoroll.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 ### 玩
@@ -63,15 +63,15 @@ thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
 煊煊玩得也很开心，回来后还嚷嚷着要去加拿大，放一些一家三口的照片
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/aberdeencenter.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/aberdeencenter.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/richmondtowncenterfoodcourt.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/richmondtowncenterfoodcourt.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/family.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/family.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
 ### 结
@@ -79,5 +79,5 @@ thumbnail: "assets/img/posts/2023thanksgiving/copybara.jpg"
 随拍的黎明的温哥华，很美
 
 <p align="center">
-  <img src="https://selenitewhisper.github.io/assets/img/posts/2023thanksgiving/dawninrichmond.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
+  <img src="https://selenitewhisper.github.io/assets/img/posts/thanks-giving/dawninrichmond.jpg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
