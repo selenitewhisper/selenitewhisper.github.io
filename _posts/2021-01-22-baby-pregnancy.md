@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 怀孕记录
-feature-img: "assets/img/posts/baby-pregnancy/baby_cover.png"
-thumbnail: "assets/img/posts/baby-pregnancy/baby_cover.png"
+feature-img: "assets/img/posts/baby-pregnancy/baby_cover.jpeg"
+thumbnail: "assets/img/posts/baby-pregnancy/baby_cover.jpeg"
 ---
 
 

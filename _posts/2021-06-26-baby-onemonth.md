@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 宝宝满月啦
-feature-img: "assets/img/posts/baby-onemonth/baby_onemonth_cover.png"
-thumbnail: "assets/img/posts/baby-onemonth/baby_onemonth_cover.png"
+feature-img: "assets/img/posts/baby-onemonth/baby_onemonth_cover.jpeg"
+thumbnail: "assets/img/posts/baby-onemonth/baby_onemonth_cover.jpeg"
 ---
 
 <p align="center">

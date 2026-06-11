@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 宝宝百日啦
-feature-img: "assets/img/posts/baby-onehundreddays/baby_100_cover.png"
-thumbnail: "assets/img/posts/baby-onehundreddays/baby_100_cover.png"
+feature-img: "assets/img/posts/baby-onehundreddays/baby_100_cover.jpeg"
+thumbnail: "assets/img/posts/baby-onehundreddays/baby_100_cover.jpeg"
 ---
 
 ### 百日写真照
