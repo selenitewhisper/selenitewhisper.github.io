@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 领证仪式
-feature-img: "assets/img/posts/photos-aastudio/20_cover.png"
-thumbnail: "assets/img/posts/photos-aastudio/20_cover.png"
+feature-img: "assets/img/posts/photos-aastudio/20_cover.jpeg"
+thumbnail: "assets/img/posts/photos-aastudio/20_cover.jpeg"
 ---
 
 ### 2018.10.28, Shoreline, Seattle
@@ -155,4 +155,20 @@ thumbnail: "assets/img/posts/photos-aastudio/20_cover.png"
   <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/37.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
 
-#### Photos Credit to Aaron Liu Photography 
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/38.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/39.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/40.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/41.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
+</p>
+
+#### Photos Credit to Aaron Liu Photography
