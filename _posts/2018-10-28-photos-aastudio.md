@@ -11,6 +11,8 @@ thumbnail: "assets/img/posts/photos-aastudio/20_cover.jpeg"
 
 <iframe width="853" height="505" src="https://www.youtube.com/embed/bux_k1Rkqb0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+#### 照片
+
 <p align="center">
   <img src="https://selenitewhisper.github.io/assets/img/posts/photos-aastudio/1.jpeg?raw=true" alt="Photo" style="width: 1000px;"/> 
 </p>
