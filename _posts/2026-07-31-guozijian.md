@@ -10,12 +10,12 @@ thumbnail: "assets/img/posts/guozijian/thumbnail.jpg"
 <div style="display:flex; flex-wrap:wrap; justify-content:center; width:100%; max-width:1160px; margin:0 auto;">
   <div style="width:50%; min-width:280px; max-width:580px;">
     <div style="position:relative; width:100%; padding-bottom:177.78%; height:0; overflow:hidden;">
-      <iframe src="https://www.youtube.com/embed/2rbGLqK2PV8?si=69QmI2Q8a2ojwTx8" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/2rbGLqK2PV8?si=69QmI2Q8a2ojwTx8" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; padding:0 5.17%;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
   <div style="width:50%; min-width:280px; max-width:580px;">
     <div style="position:relative; width:100%; padding-bottom:177.78%; height:0; overflow:hidden;">
-      <iframe src="https://www.youtube.com/embed/nw5orjaWbJM?si=oC4COThx0Lo2DhSR" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/nw5orjaWbJM?si=oC4COThx0Lo2DhSR" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; padding:0 5.17%;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
 </div>
