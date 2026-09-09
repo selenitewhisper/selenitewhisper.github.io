@@ -9,7 +9,7 @@ thumbnail: "assets/img/posts/photos-aastudio/20_cover.jpeg"
 
 #### 电子相册
 
-<iframe width="853" height="505" style="padding:0;" src="https://www.youtube.com/embed/-FrH2Asj7Lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="853" height="569" style="padding:0;" src="https://www.youtube.com/embed/-FrH2Asj7Lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### 照片
 

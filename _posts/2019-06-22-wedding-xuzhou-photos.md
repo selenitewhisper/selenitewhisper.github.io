@@ -9,15 +9,15 @@ thumbnail: "assets/img/posts/wedding-xuzhou-photos/0622cover.jpeg"
 
 #### 小电影
 
-<iframe width="853" height="505" style="padding:0;" src="https://www.youtube.com/embed/Gs6Tyl9l-9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="853" height="480" style="padding:0;" src="https://www.youtube.com/embed/Gs6Tyl9l-9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### 电子相册
 
-<iframe width="853" height="505" style="padding:0;" src="https://www.youtube.com/embed/ej1KHxL48dM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="853" height="569" style="padding:0;" src="https://www.youtube.com/embed/ej1KHxL48dM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br />
 
-<iframe width="853" height="505" style="padding:0;" src="https://www.youtube.com/embed/8cBEjvoU0DE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="853" height="480" style="padding:0;" src="https://www.youtube.com/embed/8cBEjvoU0DE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### 照片
 
