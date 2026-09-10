@@ -15,7 +15,7 @@ thumbnail: "assets/img/posts/guozijian/thumbnail.jpg"
   </div>
   <div style="flex:0 1 430px; width:100%; min-width:280px; max-width:430px;">
     <div style="position:relative; width:100%; padding-bottom:150%; height:0; overflow:hidden;">
-      <iframe src="https://www.youtube.com/embed/nw5orjaWbJM?si=oC4COThx0Lo2DhSR" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; padding:0;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/VS_KVqLN6x0?si=ZoysieGRfpvSNLCR" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; padding:0;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
 </div>
